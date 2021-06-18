@@ -6,6 +6,7 @@
 * **--- TODO** clarify:
   * Castling
   * En passant
+  * King moving into check
   * etc...
 
 ## Usage
